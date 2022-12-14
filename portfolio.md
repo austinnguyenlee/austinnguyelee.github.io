@@ -18,4 +18,4 @@
 
 * [lab 8](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-08-yousif-austin)
 
-  Other than the odd spelling of "removed" in the comments part-2 was rather challeneging for me needing to use outside sources over the notes and slides we already have. This also was the first time for me to use the tutoring sessions and study groups. 
+  Other than the odd spelling of "removed" in the comments part-2 was rather challeneging for me because we stopped doing set by set instructions needing to use outside sources over the notes and slides we already have. This also was the first time for me to use the tutoring sessions and study groups. 
